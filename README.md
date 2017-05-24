@@ -1,6 +1,6 @@
 # tensorflow-opt
 
-Tensorflow 1.2.0rc0.
+Tensorflow 1.2.0rc0. CPU only.
 
 Compiled with SSE4.1, SSE4.2, AVX, AVX2 and FMA optimizations, for Python3.
 
