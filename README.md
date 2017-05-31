@@ -1,6 +1,6 @@
 # tensorflow-opt
 
-Tensorflow 1.2.0rc0. CPU only.
+Tensorflow 1.2.0rc. CPU only + CUDA version.
 
 Compiled with SSE4.1, SSE4.2, AVX, AVX2 and FMA optimizations, for Python3.
 
@@ -11,7 +11,7 @@ Gets rid of these:
 
 and provides sensible speedups on modern CPUs.
 
-Tested on Ubuntu Yakkety Yak; probably works on other modern
+Tested on Ubuntu Yakkety Yak and Zesty; probably works on other modern
 distributions as well.
 
 Uncompress the `.tar.xz` file, run `pip install *.whl` and there you go.
