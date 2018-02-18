@@ -37,7 +37,7 @@ apt install -y python3-dev python3-pip libcupti-dev pandas
 CUDNN is also required. It can be downloaded here:
 https://developer.nvidia.com/cudnn
 
-The exactly file you want is `cudnn-9.0-linux-x64-v7.tgz`
+The exact file you want is `cudnn-9.0-linux-x64-v7.tgz`
 
 ```sh
 tar xzf cudnn-9.1-linux-x64-v7.tgz
