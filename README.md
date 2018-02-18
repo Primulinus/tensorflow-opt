@@ -31,7 +31,7 @@ sudo apt-key adv --fetch-keys \
 apt update
 
 apt install -y cuda-9.0
-apt install -y python3-dev python3-pip libcupti-dev pandas
+apt install -y python3-dev python3-pip libcupti-dev
 ```
 
 CUDNN is also required. It can be downloaded here:
